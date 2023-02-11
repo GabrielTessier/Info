@@ -4,3 +4,5 @@
 
 `make test`
 
+`./build/test`
+
