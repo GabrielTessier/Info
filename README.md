@@ -2,7 +2,7 @@
 
 `cd tp_12`
 
-`make test`
+`make install`
 
-`./build/test`
+`./build/build`
 
